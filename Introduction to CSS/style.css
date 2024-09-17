@@ -1,0 +1,9 @@
+/* Id selector */
+#h2{
+    text-align:center;
+    color:brown;
+}
+/* Element selector */
+body{
+    background-color: aqua;
+}
